@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 459.941 173.35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <title>corner-a</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g>
+      <path class="cls-1" d="M0,170.434c62.763,0,304.813,16.467,415-107.833,15.018-16.941,36.706-48,41.109-63.882"/>
+      <path class="cls-1" d="M0,152.721c66.293,0,325.529,14.991,423-135.009,0,0,6.982-10.509,10.118-18.993"/>
+      <path class="cls-2" d="M0,135.009c55.929,0,242.068,10.67,357.433-76.065C378.812,42.87,400,23.072,409,0H0Z"/>
+    </g>
+  </g>
+</svg>
